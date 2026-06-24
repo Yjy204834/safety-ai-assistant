@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/test/index",
+    "pages/login/index",
+    "pages/register/index",
+    "pages/ai-qa/index",
+    "pages/news/index",
+    "pages/news/detail",
+    "pages/training/index",
+    "pages/training/theory",
+    "pages/training/video",
+    "pages/training/psych-test",
+    "pages/training/safety-test",
+    "pages/monitor/index",
+    "pages/monitor/electrolyzer",
+    "pages/monitor/purchase",
+    "pages/profile/index",
+    "pages/profile/notifications",
+    "pages/profile/learning-records",
+    "pages/profile/salary",
+    "pages/profile/settings"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "安全AI助手",
+    "navigationBarBackgroundColor": "#1E40AF",
+    "backgroundColor": "#F8FAFC"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "您的位置信息将用于安全监测定位"
+    }
+  },
+  "requiredPrivateInfos": [],
+  "usingComponents": {}
+}

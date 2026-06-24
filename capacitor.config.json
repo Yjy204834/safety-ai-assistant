@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.safetyai",
+  "appName": "安全AI助手",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

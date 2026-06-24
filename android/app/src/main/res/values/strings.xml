@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">安全AI助手</string>
+    <string name="title_activity_main">安全AI助手</string>
+    <string name="package_name">com.example.safetyai</string>
+    <string name="custom_url_scheme">com.example.safetyai</string>
+</resources>

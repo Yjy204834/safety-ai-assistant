@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "安全考试",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "custom-navbar": "../../components/CustomNavbar"
+  }
+}

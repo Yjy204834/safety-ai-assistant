@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "新闻详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "custom-navbar": "../../components/CustomNavbar"
+  }
+}

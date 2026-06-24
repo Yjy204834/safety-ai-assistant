@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "集团动态",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "custom-navbar": "../../components/CustomNavbar",
+    "custom-tab-bar": "../../components/CustomTabBar"
+  }
+}

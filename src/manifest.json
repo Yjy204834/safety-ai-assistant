@@ -1,0 +1,64 @@
+{
+  "name": "安全AI助手",
+  "appid": "__UNI__SAFETYAI",
+  "description": "企业安全生产管理平台",
+  "versionName": "2.0.0",
+  "versionCode": "200",
+  "transformPx": false,
+  "app-plus": {
+    "usingComponents": true,
+    "nvueStyleCompiler": "uni-app",
+    "compilerVersion": 3,
+    "splashscreen": {
+      "alwaysShowBeforeRender": true,
+      "waiting": true,
+      "autoclose": true,
+      "delay": 0
+    },
+    "modules": {},
+    "distribute": {
+      "android": {
+        "permissions": []
+      },
+      "ios": {}
+    }
+  },
+  "quickapp": {},
+  "mp-weixin": {
+    "appid": "wx95706b5b750762e0",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "enhance": true,
+      "postcss": true,
+      "minified": true
+    },
+    "usingComponents": true,
+    "permission": {
+      "scope.userLocation": {
+        "desc": "您的位置信息将用于安全监测定位"
+      }
+    },
+    "requiredPrivateInfos": []
+  },
+  "mp-alipay": {
+    "usingComponents": true
+  },
+  "mp-baidu": {
+    "usingComponents": true
+  },
+  "mp-toutiao": {
+    "usingComponents": true
+  },
+  "uniStatistics": {
+    "enable": false
+  },
+  "vueVersion": "3",
+  "h5": {
+    "router": {
+      "mode": "hash",
+      "base": "./"
+    },
+    "title": "安全AI助手"
+  }
+}

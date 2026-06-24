@@ -1,0 +1,153 @@
+{
+  "pages": [
+    {
+      "path": "pages/test/index",
+      "style": {
+        "navigationBarTitleText": "功能测试",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/login/index",
+      "style": {
+        "navigationBarTitleText": "登录",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/register/index",
+      "style": {
+        "navigationBarTitleText": "注册",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/ai-qa/index",
+      "style": {
+        "navigationBarTitleText": "AI智能助手",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/news/index",
+      "style": {
+        "navigationBarTitleText": "集团动态",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/news/detail",
+      "style": {
+        "navigationBarTitleText": "新闻详情",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/training/index",
+      "style": {
+        "navigationBarTitleText": "安全培训",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/training/theory",
+      "style": {
+        "navigationBarTitleText": "理论学习",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/training/video",
+      "style": {
+        "navigationBarTitleText": "视频学习",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/training/psych-test",
+      "style": {
+        "navigationBarTitleText": "心理测试",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/training/safety-test",
+      "style": {
+        "navigationBarTitleText": "安全考试",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/monitor/index",
+      "style": {
+        "navigationBarTitleText": "安全监测",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/monitor/electrolyzer",
+      "style": {
+        "navigationBarTitleText": "电解槽监测",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/monitor/purchase",
+      "style": {
+        "navigationBarTitleText": "采购统计",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/profile/index",
+      "style": {
+        "navigationBarTitleText": "个人中心",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/profile/notifications",
+      "style": {
+        "navigationBarTitleText": "通知中心",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/profile/learning-records",
+      "style": {
+        "navigationBarTitleText": "学习记录",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/profile/salary",
+      "style": {
+        "navigationBarTitleText": "薪资查询",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/profile/settings",
+      "style": {
+        "navigationBarTitleText": "设置",
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "安全AI助手",
+    "navigationBarBackgroundColor": "#1E40AF",
+    "backgroundColor": "#F8FAFC"
+  },
+  "condition": {
+    "current": 0,
+    "list": [
+      {
+        "name": "AI助手",
+        "path": "pages/ai-qa/index",
+        "query": ""
+      }
+    ]
+  }
+}

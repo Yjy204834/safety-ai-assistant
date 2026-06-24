@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/vendor.js"),t=e.defineComponent({__name:"CustomNavbar",props:{title:{},showBack:{type:Boolean}},setup(t){const o=()=>{e.index.navigateBack()};return(t,a)=>e.e({a:t.showBack},t.showBack?{b:e.o(o)}:{},{c:e.t(t.title),d:t.$slots.default},(t.$slots.default,{}))}}),o=e._export_sfc(t,[["__scopeId","data-v-2b2ae4b6"]]);wx.createComponent(o);
