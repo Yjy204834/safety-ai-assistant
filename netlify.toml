@@ -1,0 +1,10 @@
+# Netlify 部署配置
+
+[build]
+  command = "npm run build:h5"
+  publish = "dist/build/h5"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
